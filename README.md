@@ -10,7 +10,7 @@
 
 <div align="center">
   
-### 🌐 Yo
+### 🌐 Cuentas
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-invite)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Staxzzz)
