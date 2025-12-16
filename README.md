@@ -2,7 +2,7 @@
   
 # 👋 Hola, soy Staxzzz
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Desarrollador+Full+Stack;Creador+de+Bots+de+Discord;Diseñador+Web;Siempre+Aprendiendo+Cosas+Nuevas" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Creador+de+Bots+de+Discord;Diseñador+Web" alt="Typing SVG" />
 
 </div>
 
@@ -21,10 +21,9 @@
 
 ## 🚀 Sobre Mí
 
-💡 Me apasiona crear aplicaciones web innovadoras y bots de Discord  
-🎯 Actualmente trabajando en **WirrProjects** - Construyendo experiencias increíbles en Discord  
-🌱 Siempre aprendiendo y mejorando mis habilidades de desarrollo  
-⚡ Dato curioso: Me encanta combinar estética de diseño con funcionalidad potente
+**Web Developer | Discord Bot Developer**  
+Especializado en sistemas interactivos, automatización y UX funcional.  
+Proyecto actual: **WirrProjects**.
 
 ---
 
